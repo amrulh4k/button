@@ -9,7 +9,7 @@
 		"pawn-lang/YSI-Includes",
 		"samp-incognito/samp-streamer-plugin:v2.9.3",
 		"astro-debug/action-text",
-		"ScavengeSurvive/mathutil",
+		"astro-debug/mathutil",
 		"Southclaws/pawn-errors"
 	],
 	"dev_dependencies": [
